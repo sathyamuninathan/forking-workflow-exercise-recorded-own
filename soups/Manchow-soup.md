@@ -1,4 +1,4 @@
-##Ingredients
+## Ingredients
 
 fried noodles
 soya sauce
@@ -6,7 +6,7 @@ water
 chillies
 giger
 
-##Instructions
+## Instructions
 Saute ingredients
 add water
 boil
